@@ -1,7 +1,3 @@
-
-
-
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -433,8 +429,8 @@
               <i class="bx bxs-quote-alt-right quote-icon-right"></i>
             </p>
             <img src="assets/img/testimonials/test1.JPG" class="testimonial-img" alt="">
-            <h3>Mr. Dheeraj Manga</h3>
-            <h4>IEC-CFO</h4>
+            <h3>Mr. Ruchin Jain</h3>
+            <h4>Director-RBMI,Bareily</h4>
           </div>
 
           <div class="testimonial-item">
@@ -855,7 +851,7 @@
               <li><i class="bx bx-chevron-right"></i> <a href="#services">Services</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Terms of service</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Privacy policy</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="verify_Certificate.php">Verfiy Certificate</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="verify_Certificate.php">Verify Certificate</a></li>
             </ul>
           </div>
 

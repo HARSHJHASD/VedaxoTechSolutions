@@ -59,7 +59,8 @@
                 </div>
               </div>
               <?php
-              $connection = mysqli_connect('localhost','root','','vedaxointern');
+              // $connection = mysqli_connect('localhost','root','','vedaxointern');
+              $connection = mysqli_connect('sdb-d.hosting.stackcp.net','root-6b2b','admin##123','vedaxointern-31373385ee');
 
               if(isset($_POST['search_by_id'])){
                 $id = $_POST['get_id'];
